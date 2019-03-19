@@ -1,0 +1,102 @@
+<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/kacper.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Kacper Jednorowicz
+					<br/><span>Chief Executive Officer (CEO)</span>
+					</h3>
+					<p>Kacper Jednorowicz co-founded RackCrate, and now serves as the Chief Executive Officer. As an inspirational c-level executive, Kacper is responsible for the majority of success and business growth that RackCrate has undergone and has built his career in the internet infrastructure industry, holding leadership positions at an early age and coming from an in-depth systems engineering and architecture background. This experience helped Kacper become one of the industry’s most respected technologists. As the Chief Exectuve Officer at RackCrate, Kacper oversees everything from infrastructure design and network operations to customer help desk and data center tours, although he mainly works with the product management teams to help plan and improve the services offered at RackCrate.</p>
+				</div>
+			</div>
+
+			<div class="team-members first">
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/eric.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Eric Hulbert
+					<br/><span>Director of Operations (DO)</span>
+					</h3>
+					<p>Eric is the Director of Operations at RackCrate. For nearly two decades, Eric Hulbert has been a technology visionary and leader. He has founded, built, and successfully exited multiple businesses in his career, creating over three billion dollars in equity value. Prior to RackCrate, Eric has supported the delivery of more than 500 megawatts of data center capacity across 64 data center sites in North America, Europe and APAC. Eric's forte is disruption – inventing and synthesizing software, data and energy technologies in unique ways that have enabled the transformation of business and mission performance for over a thousand enterprises and organizations that Eric has worked for, provided service or owned. Now Eric continues his work as a director at RackCrate.</p>
+				</div>
+			</div>
+
+			<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/james.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>James Hann
+					<br/><span>Chief Operating Officer (COO)</span>
+					</h3>
+					<p>James Hann serves as Chief Operating Officer for RackCrate. In this position, he works side-by-side with Eric and is directly responsible for global operations and oversees data denter strategies applied by RackCrate. James has spent the past 17 years in the telecommunications and data center industry, and has had responsibility for delivering solutions for global enterprise customers. Prior to working at RackCrate, he managed data center development projects in Australia. Hong Kong, Singapore, and Japan. He received a DUT from Institut Universitaire de Technologie, Mulhouse, France, a BS in Mechanical Engineering from California State University, Los Angeles and an MBA in International Management from Thunderbird, the American Graduate School of International Management.</p>
+				</div>
+			</div>
+
+			<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/tom.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Thomas Delacruz
+					<br/><span>Director of Network Operations</span>
+					</h3>
+					<p>Thomas Delacruz serves as the Director of Network Operations here at RackCrate. Thomas, or Tom, is responsible for sustaining network availability, stability, and optimization for all data centers with RackCrate. At the start of his career, Tom launched a web hosting service out of his own garage for fun, prior to graduating from high school. Tom holds over 8 years of experience in the Service Provider industry, ranging from dial-up services and wireless telecommunications to SONET, optical networking, and carrier-class infrastructure. Over his career, he has held positions starting as an engineer, climbing up to director and c-level roles with previous organizations. Tom takes great pride and joy in his crucial and essential job he does for RackCrate.</p>
+				</div>
+			</div>
+
+			<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/nick.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Nicholas Ochoa
+					<br/><span>Director of Network Security</span>
+					</h3>
+					<p>Nicholas Ochoa is the Director of Network Security for RackCrate. Prior to joining RackCrate to play defense, Nick spent most of his career ten year career in the consulting and financial sectors as an attack-focused security expert, ethical hacker and security systems developer. With a background in reverse engineering, application security, and incident response, Nick has spent his career working to secure some of the world’s most critical financial infrastructures for organizations such as NYSE Euronext, the Federal Reserve Bank and several stock exchange markets. At RackCrate, Nick works to ensure the continuous security of RackCrate most critical systems and applications to ensure your data is always secure, and unreachable by non-ethical hackers and other bad guys.</p>
+				</div>
+			</div>
+
+			<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/clay.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Clayton Hann
+					<br/><span>Director of Inside and Enterprise Sales</span>
+					</h3>
+					<p>Clayton Hann is the Director of Inside and Enterprise Sales for RackCrate. Clayton, aka Clay, is responsible for leading the operations and execution of sales operations and sales management at RackCrate. Clay brings over 8 years of web hosting and e-commerce industry experience to the RackCrate team and has a passion for delivering an unparalleled customer experience. As a proven, results-oriented sales and operations leader, Clay has launched and grown several inside sales and account management teams. Prior to RackCrate, he led initiatives to increase global market share across several data centers with a broad IaaS portfolio of dedicated and virtual servers, colocation, private and hybrid cloud. Clay holds a Six Sigma Green Belt certification along with sales and industry certifications from Miller Heiman and VMware.</p>
+				</div>
+			</div>
+
+			<div class="team-members">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/colin.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Colin Carrizales
+					<br/><span>Facilities Manager</span>
+					</h3>
+					<p>Colin Carrizales is the Facilities Manager for RackCrate. Previously an estate agent, Colin finds new property and administers maintenance of current facilities. Colin is a seasoned performance hardware enthusiast and in his daily responsibilities, Colin oversees and all hardware vendor relations, research, selection, procurement, staffing, and monitoring for all three of RackCrate's data centers. Over the years, Colin has managed numerous data center launches for RackCrate and other providers, including RackCrate's two newest facilities in Arizona and North Carolina. Today, Colin spends his time managing RackCrate's data centers and planning new ones. When he isn’t managing data centers, he likes to jam with his band or work on his hardware rig at home.</p>
+				</div>
+			</div>
+
+			<div class="team-members" style="height:270px">
+			
+				<div class="team-image-left">
+					<img class="img-responsive img-circle mb-lg" style="width:100%" src="../images/team/anna.jpg">
+				</div>
+				<div class="team-member-text">
+					<h3>Anna Canfield
+					<br/><span>Director of Finance</span>
+					</h3>
+					<p>Anna Canfield is the Director of Finance at RackCrate is responsible for the interpretation of financial data in order to advise on major financial decisions that happen on a daily basis at RackCrate. Anna is involved in new investment opportunities for the company, and runs point on strategy and negotiations during the acquisition process whilst working closely with other executives and clients. Her team manage all aspects of billing, which includes invoices, taxes and all kinds of paperwork. Anna holds a Bachelor of Science in Business Administration specializing in finance from The Ohio State University. In her free time Anna goes kayaking and water rafting in the rivers near her home, and is also the master Ping Pong Champion at RackCrate.</p>
+				</div>
+			</div>

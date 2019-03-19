@@ -1,0 +1,163 @@
+/*
+*
+* CSS for Hardware Section of RackCrate
+*
+*/
+
+#intro{
+	background:#13171F!important;
+	height:100px!important
+}
+
+.breadcrumb {
+	font-size:13px;
+	padding-top:17px;
+	border-bottom:1px solid #ddd
+}
+
+.hardware {
+	min-height:230px
+}
+
+.hardware .product-img {
+	height:377px!important;
+	width:377px!important;
+	border:1px solid #ddd!important
+}
+
+.hardware .price {
+	font-size:18px!important;
+	color:#000;
+	margin-top:18px;
+	font-weight:normal;
+	line-height:0;
+	letter-spacing:0.1px;
+}
+
+.hardware .price span {
+	font-weight:bold;
+}
+
+.hardware .order-link {
+	font-size:13px;
+	color:#777;
+	border-bottom:1px solid #ddd;
+	padding-bottom:16px;
+	margin-bottom:16px
+}
+
+.hardware .more-views {
+	font-size:13px;
+}
+
+.hardware .more-views .product-view {
+	width:23%;
+	border:1px solid #ddd;
+	margin-right:2px
+}
+
+.rating {
+	unicode-bidi: bidi-override;
+}
+.rating > span:before,
+.rating > span ~ span:before {
+    content: "\2605";
+    position: absolute;
+    color:#FCCF03;
+}
+
+/*
+*
+* TABLE
+*
+*/
+
+table {
+	font-size:13px;
+	line-height:23px
+}
+
+.cisco-right01 {
+    border-right: 1px solid #939599;
+    border-bottom: 1px solid #939599;
+    background-color: #f2f2f5;
+    padding:3px 2px 3px 9px;
+    vertical-align:middle;
+}
+.cisco-bottom01 {
+    border-bottom: 1px solid #939599;
+    padding:3px 2px 3px 9px;
+    background-color: #f2f2f5;
+    vertical-align:middle;
+}
+.cisco-right02 {
+    border-right: 1px solid #939599;
+    border-bottom: 1px solid #939599;
+    padding:3px 2px 3px 9px;
+    vertical-align:middle;
+}
+.cisco-bottom02 {
+    border-bottom: 1px solid #939599;
+    padding:3px 2px 3px 9px;
+    vertical-align:middle;
+}
+
+/* c4c7cc */
+
+.ciscochart {
+    width: 100%;
+    border: 1px solid #939599!important;
+    margin-bottom: 20px;
+}
+
+.warranty {
+	background-color:#FFFFE3!important
+}
+
+table.shipping .cisco-bottom01,
+table.shipping .cisco-bottom02 {
+	line-height:20px!important;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+table.shipping {
+	margin-bottom:5px
+}
+
+div.order {
+	text-align:center;
+	margin-top:70px
+}
+
+a.order {
+	background:#0094e8;
+	color:#fff;
+	padding:15px 35px;
+	border-radius:5px;
+	transition:0.2s;
+}
+
+a.order:hover {
+	background:#0480C7;
+	transition:0.2s;
+}
+
+.foot-note {
+	font-size:13px;
+	text-align:right;
+}
+
+strong.light {
+	font-weight:500
+}
+
+.cisco-right01,.cisco-right02,.cisco-bottom01,.cisco-bottom02 {
+	padding-right:4px!important;
+}
+
+img.warranty {
+	width:120px!important;
+	height:95px!important;
+	float:right!important;
+}

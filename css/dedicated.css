@@ -1,0 +1,81 @@
+.tabs {
+    width:100%;
+    display:inline-block;
+}
+.tab-links:after {
+    display:block;
+    clear:both;
+    content:'';
+}
+.tab-links li {
+    margin:0px 3px;
+    float:left;
+    list-style:none;
+}
+.tab-links a {
+    padding:9px 25px;
+    display:inline-block;
+    background:rgba(0,148,232,1);
+    font-size:16px;
+    font-weight:500;
+    color:#fff;
+    transition: linear 0.15s;
+    text-decoration:none;
+    -webkit-clip-path:polygon(0 10%,100% 0,100% 90%,0 100%);
+    clip-path:polygon(0 10%,100% 0,100% 90%,0 100%);
+}
+.tab-links a:hover {
+    background:rgba(0,148,232,0.75);
+    text-decoration:none;
+}
+li.active a, li.active a:hover {
+    background:rgba(0,148,232,0.5);
+}
+.tab {
+    display:none;
+}
+.tab.active {
+    display:block;
+}
+
+.available .button{background:#5cb85c;border-color:#5cb85c;transition:0.2s;}
+.available .button:hover{background:#44934d;border-color:#44934d}
+.available .table-price{border-color:#5cb85c!important;color:#5cb85c!important;background:#fff!important}
+
+.plan-table tbody {
+	border:1px solid #eee;
+}
+
+.plan-table thead {
+	border:1px solid #333;
+}
+
+.plan-table thead th {
+  padding-top:8px!important;
+  padding-bottom:8px!important;
+  font-weight:500;
+  background:#333!important
+}
+
+.plan-table tr td {
+	font-size:13px!important;
+	padding-top:10px!important;
+	padding-bottom:10px!important;
+}
+
+.plan-table tr td:first-child {
+	padding-left:20px!important;
+}
+
+.plan-table tr:nth-of-type(odd) {
+    background-color: #eee
+}
+
+.wrapper.dedi {
+  max-width: 1170px;
+  width:100%;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
